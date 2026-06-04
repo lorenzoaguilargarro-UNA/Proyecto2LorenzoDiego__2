@@ -1,0 +1,64 @@
+[CARGA] Salas cargadas desde datos/salas.txt
+[CARGA] Objetos cargados desde datos/objetos.txt
+[CARGA] Enemigos cargados desde datos/enemigos.txt
+[CARGA] Jugador 'lore' creado. Sala inicial: entrada
+
+========================================
+   AVENTURA EN LA MAZMORRA - MODO AUTO  
+========================================
+
+[Turno 1] [AUTO] Recogio: Pocion de Salud
+[Turno 2] [AUTO] Se movio hacia 'Cripta'
+[Turno 3] [AUTO] Recogio: Daga de Plata
+[Turno 4] [AUTO] Recogio: Amuleto Antiguo
+[Turno 5] lore ataca a Ghoul causando 15 de danio.
+[Turno 6] Ghoul contraataca causando 6 de danio.
+[Turno 7] lore ataca a Ghoul causando 15 de danio.
+[Turno 8] Ghoul ha sido derrotado!
+[Turno 9] lore ataca a Arquero de Huesos causando 16 de danio.
+[Turno 10] Arquero de Huesos contraataca causando 7 de danio.
+[Turno 11] lore ataca a Arquero de Huesos causando 16 de danio.
+[Turno 12] Arquero de Huesos ha sido derrotado!
+[Turno 13] [AUTO] Se movio hacia 'Corredor Oscuro'
+[Turno 14] [AUTO] Recogio: Llave de la Boveda
+[Turno 15] lore ataca a Espectro Sombra causando 14 de danio.
+[Turno 16] Espectro Sombra contraataca causando 7 de danio.
+[Turno 17] lore ataca a Espectro Sombra causando 14 de danio.
+[Turno 18] Espectro Sombra contraataca causando 7 de danio.
+[Turno 19] lore ataca a Espectro Sombra causando 14 de danio.
+[Turno 20] Espectro Sombra ha sido derrotado!
+[Turno 21] [AUTO] Desbloqueo 'Boveda del Tesoro' con Llave de la Boveda
+[Turno 22] [AUTO] Se movio hacia 'Boveda del Tesoro'
+[Turno 23] [AUTO] Recogio: Espada del Dragon
+[Turno 24] [AUTO] Recogio: Corona Dorada
+[Turno 25] [AUTO] Recogio: Pocion de Salud
+[Turno 26] [AUTO] Navegando hacia 'Corredor Oscuro'
+[Turno 27] [AUTO] Se movio hacia 'Puesto de Guardia'
+[Turno 28] [AUTO] Recogio: Llave de Hierro
+[Turno 29] [AUTO] Recogio: Armadura de Cuero
+[Turno 30] lore ataca a Guardia Esqueleto causando 22 de danio.
+[Turno 31] Guardia Esqueleto contraataca causando 1 de danio.
+[Turno 32] lore ataca a Guardia Esqueleto causando 22 de danio.
+[Turno 33] Guardia Esqueleto ha sido derrotado!
+[Turno 34] [AUTO] Se movio hacia 'Armeria'
+[Turno 35] [AUTO] Recogio: Espada Oxidada
+[Turno 36] [AUTO] Recogio: Escudo de Acero
+[Turno 37] [AUTO] Recogio: Pocion de Salud
+[Turno 38] [AUTO] Navegando hacia 'Puesto de Guardia'
+[Turno 39] [AUTO] Navegando hacia 'Corredor Oscuro'
+[Turno 40] [AUTO] Desbloqueo 'Salon del Trono' con Llave de Hierro
+[Turno 41] [AUTO] Se movio hacia 'Salon del Trono'
+[Turno 42] lore ataca a Senor de la Mazmorra causando 10 de danio.
+[Turno 43] Senor de la Mazmorra contraataca causando 6 de danio.
+[Turno 44] lore ataca a Senor de la Mazmorra causando 10 de danio.
+[Turno 45] Senor de la Mazmorra contraataca causando 6 de danio.
+[Turno 46] lore ataca a Senor de la Mazmorra causando 10 de danio.
+[Turno 47] Senor de la Mazmorra contraataca causando 6 de danio.
+[Turno 48] lore ataca a Senor de la Mazmorra causando 10 de danio.
+[Turno 49] Senor de la Mazmorra contraataca causando 6 de danio.
+[Turno 50] lore ataca a Senor de la Mazmorra causando 10 de danio.
+[Turno 51] Senor de la Mazmorra contraataca causando 6 de danio.
+[Turno 52] lore ataca a Senor de la Mazmorra causando 10 de danio.
+[Turno 53] Senor de la Mazmorra ha sido derrotado!
+
+[RESULTADO] VICTORIA - lore escapo de la mazmorra!

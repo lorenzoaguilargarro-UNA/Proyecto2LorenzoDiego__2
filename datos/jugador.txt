@@ -1,0 +1,6 @@
+# Configuracion base del jugador
+# El nombre se solicita interactivamente al inicio
+DESCRIPCION:Un valiente aventurero dispuesto a enfrentar la oscuridad.
+SALUD:100
+ATAQUE:8
+DEFENSA:2

@@ -1,0 +1,27 @@
+# Archivo de objetos
+# Formato: OBJETO:<id_sala>|<nombre>|<descripcion>|<tipo>|<valor>
+# Tipos: ARMA, POCION, LLAVE, TESORO, ARMADURA
+
+# Entrada
+OBJETO:entrada|Pocion de Salud|Un frasco rojo brillante. Restaura 30 puntos de salud.|POCION|30
+
+# Puesto de Guardia
+OBJETO:puesto_guardia|Llave de Hierro|Una llave de hierro pesada con motivo de calavera. Abre el salon del trono.|LLAVE|0
+OBJETO:puesto_guardia|Armadura de Cuero|Armadura de cuero gastada pero resistente. Reduce el danio recibido.|ARMADURA|3
+
+# Armeria
+OBJETO:armeria|Espada Oxidada|Una espada larga corroida. Todavia lo suficientemente afilada para hacer danio.|ARMA|5
+OBJETO:armeria|Escudo de Acero|Un escudo abollado pero funcional. Agrega buena defensa.|ARMADURA|5
+OBJETO:armeria|Pocion de Salud|Un frasco rojo brillante. Restaura 30 puntos de salud.|POCION|30
+
+# Cripta
+OBJETO:cripta|Daga de Plata|Una daga de plata finamente elaborada. Ligera y letal.|ARMA|8
+OBJETO:cripta|Amuleto Antiguo|Un amuleto dorado con runas. Vale una fortuna.|TESORO|50
+
+# Corredor
+OBJETO:corredor|Llave de la Boveda|Una llave ornamental pequena. Abre la boveda del tesoro.|LLAVE|0
+
+# Boveda
+OBJETO:boveda|Espada del Dragon|Una espada legendaria forjada en fuego de dragon. Arma temible.|ARMA|15
+OBJETO:boveda|Corona Dorada|Una corona enjoyada usada por el senor de la mazmorra.|TESORO|200
+OBJETO:boveda|Pocion de Salud|Un frasco rojo brillante. Restaura 30 puntos de salud.|POCION|30

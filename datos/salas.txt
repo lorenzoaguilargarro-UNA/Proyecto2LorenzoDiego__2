@@ -1,0 +1,33 @@
+# Archivo de salas
+# Formato:
+#   INICIO:<id_sala>
+#   META:<id_sala>
+#   SALA:<id>|<nombre>|<descripcion>|<bloqueada:0|1>|<llave_o_ninguna>
+#   SALIDA:<desde>|<direccion>|<hacia>
+
+INICIO:entrada
+META:salon_del_trono
+
+SALA:entrada|Entrada de la Mazmorra|Un corredor de piedra fria. Las antorchas parpadean en las paredes. El aire huele a moho y huesos viejos.|0|ninguna
+SALA:puesto_guardia|Puesto de Guardia|Una habitacion saqueada que usaban los guardias. Muebles rotos cubren el suelo.|0|ninguna
+SALA:armeria|Armeria|Estantes de armas llenan las paredes, la mayoria vacios. Quedan algunos objetos.|0|ninguna
+SALA:cripta|Cripta|Filas de sarcofagos de piedra llenan esta lugubre camara. Susurros resuenan en las paredes.|0|ninguna
+SALA:corredor|Corredor Oscuro|Un pasillo largo y estrecho. El agua gotea del techo, con eco interminable.|0|ninguna
+SALA:boveda|Boveda del Tesoro|Puerta de hierro pesada, ahora abierta. Dentro, restos de la riqueza de la mazmorra.|1|Llave de la Boveda
+SALA:salon_del_trono|Salon del Trono|Una camara enorme con un trono de piedra en ruinas. Aqui vivia el senor de la mazmorra. La libertad esta detras de la puerta del fondo!|1|Llave de Hierro
+
+# Conexiones
+SALIDA:entrada|norte|puesto_guardia
+SALIDA:entrada|este|cripta
+SALIDA:puesto_guardia|sur|entrada
+SALIDA:puesto_guardia|este|armeria
+SALIDA:puesto_guardia|norte|corredor
+SALIDA:armeria|oeste|puesto_guardia
+SALIDA:cripta|oeste|entrada
+SALIDA:cripta|norte|corredor
+SALIDA:corredor|sur|puesto_guardia
+SALIDA:corredor|este|boveda
+SALIDA:corredor|oeste|cripta
+SALIDA:corredor|norte|salon_del_trono
+SALIDA:boveda|oeste|corredor
+SALIDA:salon_del_trono|sur|corredor

@@ -1,0 +1,15 @@
+# Archivo de enemigos
+# Formato: ENEMIGO:<id_sala>|<nombre>|<descripcion>|<salud>|<ataque>|<defensa>|<oro>
+
+# Puesto de Guardia
+ENEMIGO:puesto_guardia|Guardia Esqueleto|Un esqueleto animado con armadura oxidada. Sus cuencas vacias brillan en rojo.|25|6|1|10
+
+# Cripta
+ENEMIGO:cripta|Ghoul|Una criatura no muerta que avanza con un chillido espantoso.|30|8|1|15
+ENEMIGO:cripta|Arquero de Huesos|Un esqueleto con un arco roto. Dispara flechas fragiles.|20|9|0|12
+
+# Corredor
+ENEMIGO:corredor|Espectro Sombra|Un soplo de oscuridad con forma. Enfria el aire a su alrededor.|30|9|2|20
+
+# Salon del Trono
+ENEMIGO:salon_del_trono|Senor de la Mazmorra|El espectro del senor de esta mazmorra se levanta del trono rugiendo con furia ancestral!|60|13|3|100
