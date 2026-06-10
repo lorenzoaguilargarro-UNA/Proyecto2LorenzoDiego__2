@@ -20,3 +20,4 @@ add_executable(Proyecto2LorenzoDiego__2 main.cpp
         Registro.h
         Sala.cpp
         Sala.h)
+file(COPY datos DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
