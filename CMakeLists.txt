@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 4.1)
 project(Proyecto2LorenzoDiego__2)
 
 set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(Proyecto2LorenzoDiego__2 main.cpp
         Enemigo.cpp
